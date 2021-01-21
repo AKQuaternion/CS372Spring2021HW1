@@ -7,5 +7,6 @@ int main() {
    cout << "Robert Lawton should recieve a 100 on HW1.\n";
    cout << "Andrew Ng should get a 20/20 on HW1.\n";
    cout << "Jacob Jakiemiec should receive a 100% on HW 1.\n";
+   cout << "Isaiah Ditmer should receive 20/20 on HW01.\n";
    return 0;
 }
