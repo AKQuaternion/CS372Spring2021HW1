@@ -11,5 +11,6 @@ int main() {
    cout << "Hunter Barndt should secure a 20/20 on HW1.\n";
    cout << "Gannon Higgins should hope for a 100% on HW1.\n";
    cout << "Tyler Chase should recieve a 20/20 for HW1.\n";
+   cout << "Yali Wang should recieve a 20/20 for HW1.\n";
    return 0;
 }
