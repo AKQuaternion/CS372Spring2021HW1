@@ -9,5 +9,6 @@ int main() {
    cout << "Jacob Jakiemiec should receive a 100% on HW 1.\n";
    cout << "Isaiah Ditmer should receive 20/20 on HW01.\n";
    cout << "Hunter Barndt should secure a 20/20 on HW1.\n";
+   cout << "Gannon Higgins should hope for a 100% on HW1.\n";
    return 0;
 }
