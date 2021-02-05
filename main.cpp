@@ -13,5 +13,6 @@ int main() {
    cout << "Tyler Chase should recieve a 20/20 for HW1.\n";
    cout << "Yali Wang should recieve a 20/20 for HW1.\n";
    cout << "Cody Abad should get like a 15/20 on HW1 cause he was late.\n";
+   cout << "Millard Arnold V shoudl get a 18/20 on HW1 because he was late, but Dr. Hartman said he wansn't taking points off, but it was still really late."
    return 0;
 }
